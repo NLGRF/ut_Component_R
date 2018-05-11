@@ -1,0 +1,39 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "owner": "Moderator",
+      "message": "Hello chatbox"
+    },
+    {
+      "id": 2,
+      "owner": "Moderator",
+      "message": "Powered By mnosuk"
+    },
+    {
+      "id": 3,
+      "owner": "Moderator",
+      "message": "ใช้สำหรับสอนการ Test Component จ้า อิอิกำ"
+    },
+    {
+      "id": 4,
+      "owner": "Mnosuk (สุดหล่อจ้าวเดิม)",
+      "message": "จากบ้านนอกสู่เมืองฟ้า เดินมาตามหัวใจ จากมาตามความฝันที่ไฝ่ หวังว่าต้องได้ดี"
+    },
+    {
+      "id": 5,
+      "owner": "Mnosuk (สุดหล่อจ้าวเดิม)",
+      "message": "บ้านวันนี้เหมือนเดิมมั้ย ไม่ได้ไปต้องหลายปี"
+    },
+    {
+      "id": 6,
+      "owner": "Mnosuk (สุดหล่อจ้าวเดิม)",
+      "message": "ห่วงบางคนที่แสนดี"
+    },
+    {
+      "id": 7,
+      "owner": "Mnosuk (สุดหล่อจ้าวเดิม)",
+      "message": "ตอนนี้พ่อทำอัลลัยยย"
+    }
+  ]
+}
